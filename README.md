@@ -6,6 +6,6 @@ A Remote Spy with a built in Remote Brower which allows you to see any Remote Ev
 ## Made with ❤️ by Intrer#0421
 
 Script:
-```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Brand/Turtle-Spy/main/source.lua", true))()
 ```
